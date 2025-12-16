@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mjw-com.iml" filepath="$PROJECT_DIR$/.idea/Mjw-com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mjw-com-api/Mjw-com-api.iml" filepath="$PROJECT_DIR$/Mjw-com-api/Mjw-com-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mjw-com-controller/Mjw-com-controller.iml" filepath="$PROJECT_DIR$/Mjw-com-controller/Mjw-com-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mjw-com-main/Mjw-com-main.iml" filepath="$PROJECT_DIR$/Mjw-com-main/Mjw-com-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mjw-com-orm/Mjw-com-orm.iml" filepath="$PROJECT_DIR$/Mjw-com-orm/Mjw-com-orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mjw-com-service/Mjw-com-service.iml" filepath="$PROJECT_DIR$/Mjw-com-service/Mjw-com-service.iml" />
+    </modules>
+  </component>
+</project>
